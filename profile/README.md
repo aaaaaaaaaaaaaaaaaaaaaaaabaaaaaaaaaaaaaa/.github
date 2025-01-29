@@ -1,6 +1,6 @@
 # a
 
-##COSC 310 Project
+## COSC 310 Project
 
 This is the organization for the COSC 310 Project
 We are doing option B for the project:
